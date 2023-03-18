@@ -1,1 +1,1 @@
-# Weird JavaScript Compiler
+# Type Coercion JavaScript Compiler
