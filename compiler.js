@@ -52,7 +52,7 @@ charset.S = `([]+([]+[])[${string("constructor")}])[${number(9)}]`
 charset.g = `([]+([]+[])[${string("constructor")}])[${number(14)}]`
 
 //UTILIZING REGEX HACK
-charset.p = `([]+(/-/)[${string("constructor")}])[${number(14)}]`
+charset.p = `([]+(/!/)[${string("constructor")}])[${number(14)}]`
 charset["\\"] = `(/\\\\/+[])[${number(1)}]`
 
 //UTILIZING THE STRING FUNCTION HEXADECIMAL HACK
